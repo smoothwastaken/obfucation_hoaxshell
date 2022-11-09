@@ -1,0 +1,3 @@
+[submodule "tool/Chimera"]
+	path = tool/Chimera
+	url = https://github.com/tokyoneon/Chimera.git
